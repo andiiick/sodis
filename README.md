@@ -67,3 +67,4 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 # surat
 # surat
 # surat
+# surat
